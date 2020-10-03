@@ -1,4 +1,4 @@
-# Directing customers to subscription products through app behaviour analysis
+# Directing customers to subscription products through app behaviour analysis.
 
 In todays market, companies have apps that are free but also provide paid versions of the app which have additional features. An example of this is YouTube Red. Since marketing is always costly to companies, it will be beneficial to know exactly who to target with offer and promotions.
 
