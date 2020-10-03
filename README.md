@@ -1,6 +1,6 @@
 # Directing customers to subscription products through app behaviour analysis.
 
-In todays market, companies have apps that are free but also provide paid versions of the app which have additional features. An example of this is YouTube Red. Since marketing is always costly to companies, it will be beneficial to know exactly who to target with offer and promotions.
+In todays market, companies have apps that are free but also provide paid versions of the app which have additional features. An example of this is YouTube Red. Since marketing is always costly to companies, it will be beneficial to know exactly who to target with offers and promotions.
 
 Market: The target audience is customers who use a company's free product. In this case study, this refers to users who downloaded (and used) the free app.
 
